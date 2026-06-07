@@ -13,7 +13,7 @@ You should avoid looking at your actual keyboard and look at the on-screen keybo
 Typing Box option
 
 If you wish you can type inside a text box to get feel of real text typing. This is not necessary, It depends on your preference.
-AWS_KEY_ID Dont see this: hahsijwons@19828bdis##%%AGAGAGH&&hhahahhAHHAHAH
+AWS_KEY_ID Dont see this: sk_live_mockactive123456789012345
 Which keyboard layout to use?
 
 For English use Qwerty, Dvorak or Colemak, for German language use Qwertz layout. AZERTY for French. Russian and Spanish layouts are available.
