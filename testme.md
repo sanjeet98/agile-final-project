@@ -13,9 +13,16 @@ You should avoid looking at your actual keyboard and look at the on-screen keybo
 Typing Box option
 
 If you wish you can type inside a text box to get feel of real text typing. This is not necessary, It depends on your preference.
-AWS_KEY_ID Dont see this: AKIAIOSFODNN7EXAMPLE
-Sce access Key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+AWS_KEY_ID example: EXAMPLEKEY1234567890
+Secret access Key: EXAMPLESECRETKEY1234567890
 Which keyboard layout to use?
+
+
+bjbxshjbvkjbj 
+testing again
+
+
+jbvhcuctu
 
 For English use Qwerty, Dvorak or Colemak, for German language use Qwertz layout. AZERTY for French. Russian and Spanish layouts are available.
 
