@@ -13,7 +13,7 @@ You should avoid looking at your actual keyboard and look at the on-screen keybo
 Typing Box option
 
 If you wish you can type inside a text box to get feel of real text typing. This is not necessary, It depends on your preference.
-TEST_SECRET=shieldlint_test_aws_mock_123456789
+TEST_SECRET=[REDACTED_BY_SHIELDLINT]
 
 bjbxshjbvkjbj 
 testing again
