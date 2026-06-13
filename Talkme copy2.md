@@ -13,7 +13,7 @@ You should avoid looking at your actual keyboard and look at the on-screen keybo
 Typing Box option
 
 If you wish you can type inside a text box to get feel of real text typing. This is not necessary, It depends on your preference.
-AWS Access Key ID: AKIAIOSFODNN7EXAMPLE
+AWS Access Key ID: [REDACTED_BY_SHIELDLINT]
 
 AWS Secret Access Key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 
